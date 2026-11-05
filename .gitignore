@@ -1,6 +1,10 @@
 # Ignore the 'data' directory
 data/
 
+# Ignore environment .yml files
+eds220-env.yml
+test-env-flex.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
